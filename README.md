@@ -1,7 +1,7 @@
 El proyecto fue desarrollado originalmente como trabajo académico en Google Colab.
 
 ---
-git 
+
 # 🎭 Emotion Music – Training & Research
 
 Este repositorio documenta la **Fase 1 (Investigación)** del proyecto integral **“Ponele música a tus emociones”**, desarrollado como trabajo final grupal. Aquí se encuentra la lógica de entrenamiento, el análisis de datos y la validación del motor de IA que da vida a la aplicación.
